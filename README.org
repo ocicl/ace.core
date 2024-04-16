@@ -1,0 +1,10 @@
+* ace.core
+
+This is ITA/Google's library containing utilities for working with
+Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/qitab/ace.core.git |
+| commit  | 2981781                                   |
+| systems | ace.core                                  |
+|---------+-------------------------------------------|
